@@ -118,9 +118,7 @@ main{
         font-size: 25px ;
     }
     
-    footer{
-        width: 110%;
-    }
+
     .section-principal{
         width: 120%;
     }
@@ -135,6 +133,10 @@ main{
         width: 120%;
         align-items: center;
         padding-bottom: 20px;
+    } 
+    
+    footer{
+        width: 110%;
     }
 
  }
