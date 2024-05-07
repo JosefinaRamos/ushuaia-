@@ -1,0 +1,16 @@
+@import "./utilities/maps";
+@import "./utilities/mixins";
+
+@import "./base/reset";
+@import "./base/typografias";
+
+@import "./layout/header";
+@import "./layout/gastronomia/main-gastronomia";
+@import "./layout/footer";
+
+@import "./layout/mediaQuerry/media1440/media1440-gastronomia";
+@import "./layout/mediaQuerry/media1024/media1024-gastronomia";
+@import "./layout/mediaQuerry/media768/media768-gastronomia";
+@import "./layout/mediaQuerry/media425/media425-gastronomia";
+@import "./layout/mediaQuerry/media320/media320-gastronomia";
+

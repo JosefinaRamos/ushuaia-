@@ -1,0 +1,30 @@
+@media (max-width: 768px) {
+    .header-index {
+      padding: 1px 2rem;
+      width: 135%;
+      height: 150%;
+      font-size: 20px;
+      justify-content: space-around;
+      align-items: center; }
+    .header-index nav {
+      width: 135%;
+      justify-content: none;
+      background-color: #51829B; }
+    .navbar li a {
+      font-size: 25px; }
+    .section-principal {
+      width: 150%; }
+    .section-dos {
+      width: 155%;
+      padding-bottom: 20px;
+      font-size: 30px; }
+    .contenedor-accesos {
+      width: 142%;
+      height: 180%; 
+      padding-bottom: 140px; }
+    .parrafo {
+      width: 95%; }
+    p {
+      font-size: 18px;}
+    footer {
+      width: 150%; } }

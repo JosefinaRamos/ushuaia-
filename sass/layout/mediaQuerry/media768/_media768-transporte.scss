@@ -1,0 +1,42 @@
+@media (max-width:768px) {
+    .header-index{
+        padding: 1px 2rem;
+        width: 135%;
+        height: 150%;
+        font-size: 20px;
+        justify-content: space-around;
+        align-items: center;
+        
+    }
+    .header-index nav{
+        width: 135%;
+        justify-content:none ;
+        background-color: #51829B;
+    }
+    .navbar li a{
+        font-size: 25px ;
+    }
+
+    .section-principal{
+        width: 135%;
+        height: 100%;
+    }
+
+    .transporte {
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+    }
+    .transporte .parrafo{
+        font-size: 10px;
+    }
+
+    .transporte .parrafo p{
+        font-size: 15px;
+        justify-content: end;
+    }
+
+    footer{
+        width: 150%;
+    }
+ }

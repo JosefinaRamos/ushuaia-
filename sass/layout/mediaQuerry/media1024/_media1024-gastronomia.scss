@@ -1,0 +1,42 @@
+@media (max-width:1024px) {
+    
+    .header-index{
+        padding: 1px 2rem;
+        width: 100%;
+        height: 100%;
+        font-size: 20px;
+        justify-content: none;
+        align-items: center;
+        
+    }
+    .header-index nav{
+        width: 100%;
+        justify-content:none ;
+        background-color: #51829B;
+    }
+    .navbar li a{
+        font-size: 25px ;
+    }
+    
+
+    .section-principal{
+        width: 120%;
+    }
+    .section-dos{
+        width: 110%;
+        padding-bottom: 20px;
+        font-size: 20px;
+
+
+    }
+    main{
+        width: 120%;
+        align-items: center;
+        padding-bottom: 20px;
+    } 
+    
+    footer{
+        width: 110%;
+    }
+
+ }

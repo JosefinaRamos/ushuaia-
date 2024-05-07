@@ -1,0 +1,40 @@
+@media (max-width:320px) {
+
+    .header-index{
+        padding: 1px 2rem;
+        width: 205%;
+        height: 140%;
+        font-size: 40px;
+        justify-content:none;
+        align-items: center;
+    }
+    .header-index div img{
+        width: 40px;
+        height: 40px;
+        padding-left: 10px;
+    }
+    .header-index nav{
+        width: 300%;
+        justify-content:none ;
+        background-color: #51829B;
+    }
+    .navbar li a{
+        font-size: 25px ;
+    }
+
+    .section-principal{
+        width: 122%;
+    }
+    .section-dos{
+        width: 132%;
+        font-size: 20px;
+
+    }
+    p{
+        font-size: 20px; 
+     }
+     .conteiner{
+        width: 150%;
+        align-items: center;
+     }
+}

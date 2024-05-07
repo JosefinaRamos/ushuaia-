@@ -1,0 +1,16 @@
+@import "./utilities/maps";
+@import "./utilities/mixins";
+
+@import "./base/reset";
+@import "./base/typografias";
+@import "./layout/main-index";
+@import "./layout/footer";
+
+@import "./components/contenedor-ubicacion";
+
+@import "./layout/mediaQuerry/media1440/media1440-ubicacion";
+@import "./layout/mediaQuerry/media1024/media1024-ubicacion";
+@import "./layout/mediaQuerry/media768/media768-ubicacion";
+@import "./layout/mediaQuerry/media425/media425-ubicacion";
+@import "./layout/mediaQuerry/media320/media320-ubicacion";
+

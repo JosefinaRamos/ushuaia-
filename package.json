@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss ./sass/style.scss ./css/style.css",
+    "build-css": "node-sass --unclude-path scss ./sass/ubicacion.scss ./css/ubicacion.css ",
+    "build-css": "node-sass --include-path scss ./sass/transporte-interno.scss ./css/transporte-interno.css",
+    "build-css": "node-sass --include-path scss ./sass/gastronomia.scss ./css/gastronomia.css",
+    "build-css": "node-sass --include-path scss ./sass/alojamiento.scss ./css/alojamiento.css",
+    "build-css": "node-sass --include-path scss ./sass/actividades-locales.scss ./css/actividades-locales.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
